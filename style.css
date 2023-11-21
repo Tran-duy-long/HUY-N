@@ -413,7 +413,8 @@ body{
 }
 .container .cloud:first-child::before{
     position: absolute;
-    content: 'Hãy ấn vào thư em nhé';
+    content: 'đừng ấn vào thư nha bạn
+     H-U-Y-E-N';
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
@@ -667,7 +668,7 @@ span{
     transform: translate(-60px, 50px);
     animation: giftbox4 2s linear infinite;
     animation-delay: 11s;
-    filter: drop-shadow(0 0 15px rgb(0, 81, 255));
+    filter: drop-shadow(0 0 15px red);
     transition: all 1s;
 }
 @keyframes giftbox3{
@@ -948,7 +949,7 @@ span{
 }
 .container .cute1::after{
     position: absolute;
-    content: 'Ngạc nhiên chưa nè hihi';
+    content: 'Ngạc nhiên chưa "girl especially"';
     font-family: 'Roboto', sans-serif;
     text-align: center;
     padding: 10px;
@@ -1070,7 +1071,7 @@ span{
 }
 .boxMail .boxMail-container:hover{
     transform: rotate(-5deg);
-    filter: drop-shadow(0 0 10px rgb(255, 0, 0));
+    filter: drop-shadow(0 0 10px red);
 }
 .boxMail .boxMail-container:hover .card1{
     transform: translate(-187px, -250px) rotateY(-140deg);
@@ -1089,7 +1090,7 @@ span{
     position: absolute;
     width: 50%;
     height: 100%;
-    background: linear-gradient(to right, rgb(169, 0, 93), rgb(202, 0, 118) 30%);
+    background: linear-gradient(to right, rgb(169, 0, 0), rgb(202, 0, 0) 30%);
     color: white;
     display: flex;
     justify-content: center;
@@ -1160,7 +1161,7 @@ span{
     opacity: 0;
     visibility: hidden;
     font-size: 25px;
-    text-shadow: 0 0 8px rgb(255, 0, 179);
+    text-shadow: 0 0 8px red;
 }
 .boxMail .boxMail-container .card2:hover h3{
     animation: texth3 3s forwards;
